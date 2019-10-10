@@ -13,7 +13,6 @@ public class SeperatingDigits {
         return quotient;
     }
 
-
     private static void display_digits(int user_num) {
         //First digit
         int quotient_1a = get_quotient(user_num);
